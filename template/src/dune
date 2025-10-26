@@ -1,0 +1,3 @@
+(library
+ (name {{ project_snake }})
+ (public_name {{ project_slug }}))
