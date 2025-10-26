@@ -5,7 +5,7 @@ OCaml + Nix = reproducible builds and strong types. What could go wrong?
 This template is meant to be used with [spin](https://github.com/tmattio/spin):
 
 ```bash
-spin new https://github.com/syaiful6/spin-nix my-nix-ocaml-project
+spin new https://github.com/syaiful6/spin-nix.git my-nix-ocaml-project
 ```
 
 Spin will ask you some questions, scaffold your project, and boom—you're ready to code!
