@@ -23,7 +23,7 @@
   {{ project_description }}
   ")
   (depends
-    (ocaml (>= 5.3))
+    (ocaml (>= 5.2))
     dune
-    (alcotest "with-test")
+    (alcotest :with-test)
     (odoc :with-doc)))
