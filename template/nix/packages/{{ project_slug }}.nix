@@ -24,7 +24,7 @@ buildDunePackage {
     };
 
   # add your dependencies here
-  propagateBuildInputs = [ ];
+  propagatedBuildInputs = [ ];
 
   inherit doCheck;
 
